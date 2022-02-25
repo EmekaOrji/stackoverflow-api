@@ -19,11 +19,11 @@ table {
   border-radius: 2em;
   overflow: hidden;
   border-spacing: 0;
-  background: #cac2ff;
+  background: #c2c9ff;
   box-shadow: 3px 3px 15px 5px #0004;
 }
 table th {
-  background-color: rebeccapurple;
+  background-color: #2f33a5;
   height: 3em;
   color: #fff;
 }
@@ -40,7 +40,7 @@ table img {
   object-fit: cover;
 }
 table #profile {
-  background: #9787ff;
+  background: #878fff;
   color: inherit;
   padding: .5em;
   border-radius: .4em;
